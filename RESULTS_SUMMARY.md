@@ -3,13 +3,12 @@
 **Status**: RESEARCH COMPLETE — ALL HYPOTHESES KILLED  
 **Date**: September 13, 2026  
 **Asset**: Gold (`GC=F` 2010–2026 continuous futures; `XAUUSD` 2021–2026 MT5 spot CFD)  
-**Workspace**: `c:\Users\Tolbert Okoth\mathematical model` (Standalone)
 
 ---
 
 ## 1. Master Kill Matrix
 
-Every gate was pre-registered in [`KILL_CRITERIA.md`](file:///c:/Users/Tolbert%20Okoth/mathematical%20model/KILL_CRITERIA.md).
+Every gate was pre-registered in [`KILL_CRITERIA.md`](KILL_CRITERIA.md).
 
 | Gate ID | Description | Pre-Registered Metric / Cutoff | Observed Real Value | Final Verdict |
 | :--- | :--- | :--- | :--- | :--- |
@@ -96,5 +95,5 @@ python run_step2_regime_test.py
 python run_all.py
 ```
 Detailed reports:
-- [`reports/step1_estimator_validation.md`](file:///c:/Users/Tolbert%20Okoth/mathematical%20model/reports/step1_estimator_validation.md)
-- [`reports/step2_regime_results.md`](file:///c:/Users/Tolbert%20Okoth/mathematical%20model/reports/step2_regime_results.md)
+- [`reports/step1_estimator_validation.md`](reports/step1_estimator_validation.md)
+- [`reports/step2_regime_results.md`](reports/step2_regime_results.md)

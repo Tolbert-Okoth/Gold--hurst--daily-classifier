@@ -4,7 +4,6 @@
 **Date**: September 13, 2026  
 **Asset**: Gold (`GC=F` 2010–2026 continuous futures; `XAUUSD` 2021–2026 MT5 spot CFD)  
 **Frequency**: Daily (`D1`)  
-**Workspace**: `c:\Users\Tolbert Okoth\mathematical model` (Standalone)
 
 ---
 
